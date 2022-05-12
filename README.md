@@ -9,6 +9,8 @@ This repository contains:
 ## Install
 
 This project uses [Flask](https://pypi.org/project/Flask/) and [Sqlite3](https://pypi.org/project/pysqlite/). Go check them out if you don't have them locally installed.
+![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart1.jpg)
+
 ## HOW TO GENERATE THE CSV TO DATABASE
 ```sh
 
@@ -25,7 +27,6 @@ $ python3 api.py
 
 ## HOW TO RUN LINE GRAPH TO COUNT JABATAN 
 ```sh
-![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart1.jpg)
 $ python3 chart.py
 ```
 
