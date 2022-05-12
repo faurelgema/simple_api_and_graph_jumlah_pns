@@ -18,11 +18,15 @@ $ pip install sqlite
 $ pip install flask
 $ python3 csv_to_db.py
 ```
+![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/restapi1.jpg)
 
 ## HOW TO RUN THE API 
 ```sh
 
 $ python3 api.py
+
+and use postman to hit, example with this link:
+127.0.0.1:5000/api/v1/pns/getAll
 ```
 
 ## HOW TO RUN LINE GRAPH TO COUNT JABATAN 
