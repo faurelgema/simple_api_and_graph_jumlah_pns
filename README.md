@@ -25,7 +25,7 @@ $ python3 api.py
 
 ## HOW TO RUN LINE GRAPH TO COUNT JABATAN 
 ```sh
-
+![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart1.jpg)
 $ python3 chart.py
 ```
 
