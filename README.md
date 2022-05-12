@@ -11,6 +11,14 @@ This repository contains:
 This project uses [Flask](https://pypi.org/project/Flask/) and [Sqlite3](https://pypi.org/project/pysqlite/). Go check them out if you don't have them locally installed.
 
 
+## WARNING!THIS PROGRAM CANNOT BE RUNNING IF YOU DONT GENERATE CSV DATA TO SQL. FOLLOW THIS STEP
+```sh
+1. Generate csv to database sql
+2. you can use the api
+3. you can generate every chart/graph based on sql
+```
+
+
 ## HOW TO GENERATE THE CSV TO DATABASE
 ```sh
 
