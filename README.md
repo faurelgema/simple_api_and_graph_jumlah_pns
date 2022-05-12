@@ -9,7 +9,7 @@ This repository contains:
 ## Install
 
 This project uses [Flask](https://pypi.org/project/Flask/) and [Sqlite3](https://pypi.org/project/pysqlite/). Go check them out if you don't have them locally installed.
-![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart1.jpg)
+
 
 ## HOW TO GENERATE THE CSV TO DATABASE
 ```sh
@@ -29,16 +29,19 @@ $ python3 api.py
 ```sh
 $ python3 chart.py
 ```
-
+![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart1.jpg)
 
 ## HOW TO RUN BAR GRAPH TO SEE EVERY JABATAN PNS
 ```sh
 
 $ python3 chart2.py
 ```
+![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart2.jpg)
 
 ## HOW TO RUN PIE GRAPH TO COUNT PNS IN EVERY YEARS
 ```sh
 
 $ python3 chart3.py
 ```
+
+![alt text](https://github.com/faurelgema/simple_api_and_graph_jumlah_pns/blob/main/chart3.jpg)
